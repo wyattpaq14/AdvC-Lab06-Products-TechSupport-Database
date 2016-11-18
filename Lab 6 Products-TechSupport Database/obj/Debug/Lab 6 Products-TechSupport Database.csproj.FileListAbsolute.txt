@@ -1,0 +1,10 @@
+c:\users\paquinwyatta\documents\visual studio 2012\Projects\Lab 6 Products-TechSupport Database\Lab 6 Products-TechSupport Database\bin\Debug\Lab 6 Products-TechSupport Database.exe.config
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\bin\Debug\Lab 6 Products-TechSupport Database.exe.config
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\bin\Debug\Lab 6 Products-TechSupport Database.exe
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\bin\Debug\Lab 6 Products-TechSupport Database.pdb
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\obj\Debug\Lab 6 Products-TechSupport Database.csprojResolveAssemblyReference.cache
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\obj\Debug\Lab_6_Products_TechSupport_Database.Form1.resources
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\obj\Debug\Lab_6_Products_TechSupport_Database.Properties.Resources.resources
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\obj\Debug\Lab 6 Products-TechSupport Database.csproj.GenerateResource.Cache
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\obj\Debug\Lab 6 Products-TechSupport Database.exe
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Products-TechSupport-Database\Lab 6 Products-TechSupport Database\obj\Debug\Lab 6 Products-TechSupport Database.pdb
